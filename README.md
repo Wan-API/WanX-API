@@ -1,4 +1,8 @@
-# Wan2.1
+# Wan-API
+
+## todo
+1. Implement model invocation through API.
+2. Load once, call the API countless times.
 
 <p align="center">
     <img src="assets/logo.png" width="400"/>
